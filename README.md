@@ -1,3 +1,5 @@
+Forked version that only loads as commonjs module.
+
      ____                     __      __
     /\  _`\                  /\ \    /\ \                                   __
     \ \ \ \ \     __      ___\ \ \/'\\ \ \____    ___     ___      __      /\_\    ____
